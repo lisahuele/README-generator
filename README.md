@@ -7,7 +7,7 @@ A Node.js application that will generate a professional README file.
 ## Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
-    * [Demo](#Demo)
+* [Demo](#Demo)
 * [Questions](#Questions)
 * [Credits](#Credits)
 
