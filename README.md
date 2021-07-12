@@ -12,7 +12,13 @@ A Node.js application that will generate a professional README file.
 * [Credits](#Credits)
 
 ## Installation
-To use this application, please install: 
+To use this application, install npm by using the command: 
+```
+npm install
+```
+
+then install:
+
 ```
 npm inquirer
 ```
